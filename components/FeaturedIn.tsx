@@ -1,5 +1,5 @@
 import React from 'react';
-import { Newspaper, Award, Globe, Radio, Feather } from 'lucide-react';
+import { Newspaper, Award, Globe, Feather } from 'lucide-react';
 
 const FeaturedIn: React.FC = () => {
   return (

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Activity, Brain, TrendingDown } from 'lucide-react';
+import { Brain, TrendingDown } from 'lucide-react';
 
 const ProblemSolution: React.FC = () => {
   return (

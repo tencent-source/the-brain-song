@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { MessageCircle, X, Send, User } from 'lucide-react';
+import { MessageCircle, X, Send } from 'lucide-react';
 import { AFFILIATE_LINK } from '../constants';
 
 interface Message {
